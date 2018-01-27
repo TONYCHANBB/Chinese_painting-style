@@ -1,5 +1,5 @@
-##前言
-
+前言
+===
 
 Gatys大神之前发表了一篇利用风格迁移进行作画的文章，让普通的照片具有名人的画风，效果如下：
 
@@ -40,7 +40,8 @@ CUDA ，cuDNN，OpenCL
 
 GitHub地址：https://github.com/TONYCHANBB/Chinese_painting-style
 
-##原理
+原理
+===
 
 回到原理上来，作者定义了两个损失函数：style loss 和 content loss，回到文章初始的图上来
 
