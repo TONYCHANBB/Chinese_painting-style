@@ -1,4 +1,4 @@
-﻿##前言
+##前言
 
 
 Gatys大神之前发表了一篇利用风格迁移进行作画的文章，让普通的照片具有名人的画风，效果如下：
@@ -17,6 +17,7 @@ Gatys大神之前发表了一篇利用风格迁移进行作画的文章，让普
  $ $
 风格迁移1. 马
 <center>
+ 
 <center>
 <img src="http://img.blog.csdn.net/20180127183524195?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTU5NTEzMDA4MA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="30%">  <img src="http://img.blog.csdn.net/20180127183549580?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTU5NTEzMDA4MA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="35%" > <img src="http://img.blog.csdn.net/20180127183622005?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTU5NTEzMDA4MA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width="30%">
  $ $
